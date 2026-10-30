@@ -1,0 +1,206 @@
+{
+ "metro-abidjan-plans-methodes/terrassement-plan-1": {
+  "w": 797,
+  "h": 480
+ },
+ "metro-abidjan-plans-methodes/terrassement-plan-2": {
+  "w": 771,
+  "h": 499
+ },
+ "metro-abidjan-plans-methodes/terrassement-chantier-1": {
+  "w": 522,
+  "h": 515
+ },
+ "metro-abidjan-plans-methodes/terrassement-chantier-2": {
+  "w": 694,
+  "h": 521
+ },
+ "metro-abidjan-plans-methodes/terrassement-chantier-3": {
+  "w": 1280,
+  "h": 720
+ },
+ "metro-abidjan-plans-methodes/terrassement-puisard": {
+  "w": 788,
+  "h": 477
+ },
+ "metro-abidjan-plans-methodes/ferraillage-phase-1": {
+  "w": 775,
+  "h": 470
+ },
+ "metro-abidjan-plans-methodes/ferraillage-phase-3": {
+  "w": 777,
+  "h": 468
+ },
+ "metro-abidjan-plans-methodes/ferraillage-chantier-1": {
+  "w": 666,
+  "h": 502
+ },
+ "metro-abidjan-plans-methodes/ferraillage-phase-5": {
+  "w": 763,
+  "h": 463
+ },
+ "metro-abidjan-plans-methodes/ferraillage-chantier-2": {
+  "w": 463,
+  "h": 616
+ },
+ "metro-abidjan-plans-methodes/ferraillage-chantier-3": {
+  "w": 608,
+  "h": 608
+ },
+ "metro-abidjan-plans-methodes/spmt-phasage-1": {
+  "w": 851,
+  "h": 518
+ },
+ "metro-abidjan-plans-methodes/spmt-phasage-2": {
+  "w": 792,
+  "h": 506
+ },
+ "metro-abidjan-plans-methodes/spmt-chantier-1": {
+  "w": 810,
+  "h": 1080
+ },
+ "metro-abidjan-plans-methodes/spmt-chantier-2": {
+  "w": 810,
+  "h": 1080
+ },
+ "metro-abidjan-plans-methodes/travee-levage-plan-1": {
+  "w": 603,
+  "h": 375
+ },
+ "metro-abidjan-plans-methodes/travee-levage-plan-2": {
+  "w": 820,
+  "h": 514
+ },
+ "metro-abidjan-plans-methodes/travee-chantier-1": {
+  "w": 1280,
+  "h": 960
+ },
+ "metro-abidjan-plans-methodes/travee-levage-elevation": {
+  "w": 874,
+  "h": 546
+ },
+ "metro-abidjan-plans-methodes/travee-chantier-2": {
+  "w": 864,
+  "h": 481
+ },
+ "metro-abidjan-plans-methodes/travee-chantier-3": {
+  "w": 663,
+  "h": 497
+ },
+ "metro-abidjan-plans-methodes/pra9-voile-poutres": {
+  "w": 799,
+  "h": 423
+ },
+ "metro-abidjan-plans-methodes/pra9-voile-tours": {
+  "w": 763,
+  "h": 466
+ },
+ "metro-abidjan-plans-methodes/pra9-voile-coffrage-plan": {
+  "w": 995,
+  "h": 600
+ },
+ "metro-abidjan-plans-methodes/pra9-voile-coffrage-coupe": {
+  "w": 996,
+  "h": 604
+ },
+ "metro-abidjan-plans-methodes/pra9-tablier-sequence": {
+  "w": 672,
+  "h": 409
+ },
+ "metro-abidjan-plans-methodes/pra9-tablier-etaiement": {
+  "w": 744,
+  "h": 455
+ },
+ "metro-abidjan-plans-methodes/pra9-chantier-1": {
+  "w": 747,
+  "h": 560
+ },
+ "metro-abidjan-plans-methodes/pra9-piedroit-coupe": {
+  "w": 775,
+  "h": 471
+ },
+ "metro-abidjan-plans-methodes/pra9-chantier-2": {
+  "w": 1080,
+  "h": 813
+ },
+ "pfe-aide-decision-dalle-viaduc/processus-decision": {
+  "w": 701,
+  "h": 556
+ },
+ "pfe-aide-decision-dalle-viaduc/monte-carlo-resultats": {
+  "w": 519,
+  "h": 265
+ },
+ "pfe-aide-decision-dalle-viaduc/code-python-monte-carlo": {
+  "w": 417,
+  "h": 597
+ },
+ "batiment-habitation/coupe-1": {
+  "w": 1040,
+  "h": 686
+ },
+ "batiment-habitation/coupe-2": {
+  "w": 853,
+  "h": 333
+ },
+ "batiment-habitation/plan-masse": {
+  "w": 391,
+  "h": 496
+ },
+ "batiment-habitation/plan-electricite": {
+  "w": 527,
+  "h": 433
+ },
+ "batiment-habitation/maquette-3d-1": {
+  "w": 461,
+  "h": 516
+ },
+ "batiment-habitation/maquette-3d-2": {
+  "w": 598,
+  "h": 394
+ },
+ "batiment-habitation/maquette-revit": {
+  "w": 1256,
+  "h": 820
+ },
+ "batiment-habitation/rendu-exterieur-revit": {
+  "w": 1192,
+  "h": 605
+ },
+ "batiment-habitation/rendu-salon": {
+  "w": 1385,
+  "h": 779
+ },
+ "batiment-habitation/rendu-piscine": {
+  "w": 1385,
+  "h": 779
+ },
+ "batiment-habitation/rendu-couloir": {
+  "w": 1385,
+  "h": 779
+ },
+ "batiment-habitation/rendu-facade-nuit": {
+  "w": 1385,
+  "h": 779
+ },
+ "batiment-habitation/robot-semelle": {
+  "w": 1241,
+  "h": 707
+ },
+ "batiment-habitation/robot-moments-poutres": {
+  "w": 1384,
+  "h": 705
+ },
+ "batiment-habitation/robot-modele-3d": {
+  "w": 1438,
+  "h": 770
+ },
+ "batiment-habitation/robot-cartographie-dalle": {
+  "w": 1373,
+  "h": 797
+ },
+ "batiment-habitation/robot-cartographie-voile": {
+  "w": 1242,
+  "h": 779
+ }
+}
